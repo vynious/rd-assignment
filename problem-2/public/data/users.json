@@ -1,0 +1,267 @@
+{
+    "users": [
+        {
+            "userId": 234567,
+            "train_tickets": [
+                {
+                    "id": "t_301",
+                    "from": "Berlin",
+                    "destination": "Hamburg"
+                },
+                {
+                    "id": "t_303",
+                    "from": "Frankfurt",
+                    "destination": "Stuttgart"
+                },
+                {
+                    "id": "t_305",
+                    "from": "Munich"
+                }
+            ]
+        },
+        {
+            "userId": 345678,
+            "train_tickets": [
+                {
+                    "id": "t_306",
+                    "from": "Vienna",
+                    "destination": "Salzburg"
+                },
+                {
+                    "id": "t_308",
+                    "from": "Innsbruck",
+                    "destination": "Vienna"
+                },
+                {
+                    "id": "t_309",
+                    "from": "Graz"
+                },
+                {
+                    "id": "t_310",
+                    "from": "Klagenfurt"
+                }
+            ]
+        },
+        {
+            "userId": 4567859,
+            "train_tickets": [
+                {
+                    "id": "t_311",
+                    "from": "Brussels",
+                    "destination": "Antwerp"
+                },
+                {
+                    "id": "t_313",
+                    "from": "Ghent",
+                    "destination": "Bruges"
+                },
+                {
+                    "id": "t_314",
+                    "from": "Liege"
+                }
+            ]
+        },
+        {
+            "userId": 5678490,
+            "train_tickets": [
+                {
+                    "id": "t_316",
+                    "from": "Madrid",
+                    "destination": "Valencia"
+                },
+                {
+                    "id": "t_318",
+                    "from": "Seville",
+                    "destination": "Granada"
+                },
+                {
+                    "id": "t_320",
+                    "from": "Zaragoza"
+                }
+            ]
+        },
+        {
+            "userId": 6783901,
+            "train_tickets": [
+                {
+                    "id": "t_321",
+                    "from": "Paris",
+                    "destination": "Nice"
+                },
+                {
+                    "id": "t_323",
+                    "from": "Lyon",
+                    "destination": "Marseille"
+                },
+                {
+                    "id": "t_325",
+                    "from": "Toulouse"
+                }
+            ]
+        },
+        {
+            "userId": 782012,
+            "train_tickets": [
+                {
+                    "id": "t_326",
+                    "from": "Rome",
+                    "destination": "Naples"
+                },
+                {
+                    "id": "t_328",
+                    "from": "Florence",
+                    "destination": "Bologna"
+                },
+                {
+                    "id": "t_329",
+                    "from": "Venice",
+                    "destination": "Trieste"
+                },
+                {
+                    "id": "t_331",
+                    "from": "Milan",
+                    "destination": "Turin"
+                },
+                {
+                    "id": "t_332",
+                    "from": "Palermo"
+                }
+            ]
+        },
+        {
+            "userId": 8901213,
+            "train_tickets": [
+                {
+                    "id": "t_333",
+                    "from": "Lisbon",
+                    "destination": "Porto"
+                },
+                {
+                    "id": "t_335",
+                    "from": "Braga"
+                },
+                {
+                    "id": "t_336",
+                    "from": "Coimbra"
+                },
+                {
+                    "id": "t_337",
+                    "from": "Faro",
+                    "destination": "Lisbon"
+                }
+            ]
+        },
+        {
+            "userId": 9012314,
+            "train_tickets": [
+                {
+                    "id": "t_338",
+                    "from": "Stockholm",
+                    "destination": "Gothenburg"
+                },
+                {
+                    "id": "t_340",
+                    "from": "Malmö",
+                    "destination": "Stockholm"
+                },
+                {
+                    "id": "t_341",
+                    "from": "Linköping"
+                }
+            ]
+        },
+        {
+            "userId": 1237819,
+            "train_tickets": [
+                {
+                    "id": "t_342",
+                    "from": "Copenhagen",
+                    "destination": "Aarhus"
+                },
+                {
+                    "id": "t_344",
+                    "from": "Odense",
+                    "destination": "Copenhagen"
+                },
+                {
+                    "id": "t_345",
+                    "from": "Helsingor"
+                },
+                {
+                    "id": "t_346",
+                    "from": "Roskilde",
+                    "destination": "Naestved"
+                }
+            ]
+        },
+        {
+            "userId": 2134890,
+            "train_tickets": [
+                {
+                    "id": "t_347",
+                    "from": "Oslo",
+                    "destination": "Bergen"
+                },
+                {
+                    "id": "t_349",
+                    "from": "Stavanger",
+                    "destination": "Oslo"
+                },
+                {
+                    "id": "t_350",
+                    "from": "Drammen"
+                },
+                {
+                    "id": "t_351",
+                    "from": "Trondheim"
+                }
+            ]
+        },
+        {
+            "userId": 563123,
+            "train_tickets": [
+                {
+                    "id": "t_352",
+                    "from": "Prague",
+                    "destination": "Brno"
+                },
+                {
+                    "id": "t_353",
+                    "from": "Brno",
+                    "destination": "Prague"
+                },
+                {
+                    "id": "t_354",
+                    "from": "Ostrava"
+                },
+                {
+                    "id": "t_355",
+                    "from": "Pilsen"
+                }
+            ]
+        },
+        {
+            "userId": 6718456,
+            "train_tickets": [
+                {
+                    "id": "t_356",
+                    "from": "Zurich",
+                    "destination": "Geneva"
+                },
+                {
+                    "id": "t_357",
+                    "from": "Geneva",
+                    "destination": "Zurich"
+                },
+                {
+                    "id": "t_358",
+                    "from": "Lucerne"
+                },
+                {
+                    "id": "t_359",
+                    "from": "Basel"
+                }
+            ]
+        }
+    ]
+}

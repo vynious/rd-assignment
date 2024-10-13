@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* You can define font styles or use Tailwind's utility later */
+body {
+  font-family: 'IBM Plex Mono', monospace;
+}
+
+/* Custom scrollbar for WebKit browsers */
+::-webkit-scrollbar {
+  width: 12px; /* Width of the scrollbar */
+}
+
+::-webkit-scrollbar-track {
+  background: transparent; /* The background of the track, make it transparent or same as the background */
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #6FEFB0; /* Neon teal color for the scrollbar */
+  border-radius: 20px; /* Rounded edges for the thumb */
+  border: 3px solid #7CFFC4; /* Border to make it stand out */
+}
+
+/* For Firefox */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #6FEFB0 transparent; /* Thumb color and track background for Firefox */
+}
